@@ -1,9 +1,0 @@
-# ninja log v5
-1	776	7232321856806794	Password_Generator_autogen/timestamp	d90d1aa34c6aec8
-1	776	7232321856806794	Password_Generator_autogen/mocs_compilation.cpp	d90d1aa34c6aec8
-1	776	7232321856806794	D:/Projects/GUI PassGen/Password_Generator_autogen/timestamp	d90d1aa34c6aec8
-1	776	7232321856806794	D:/Projects/GUI PassGen/Password_Generator_autogen/mocs_compilation.cpp	d90d1aa34c6aec8
-780	3576	7232321886597120	CMakeFiles/Password_Generator.dir/main.cpp.obj	cce3df96dc4ff29a
-776	3745	7232321888292585	CMakeFiles/Password_Generator.dir/Password_Generator_autogen/mocs_compilation.cpp.obj	c4d3c80173a950cc
-784	4158	7232321892431505	CMakeFiles/Password_Generator.dir/password_generator.cpp.obj	82881edb9c3f7f8e
-4159	4377	7232321894565789	Password_Generator.exe	89da2dec4a7b1d7b

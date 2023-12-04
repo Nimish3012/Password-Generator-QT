@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-e7719230153971245922.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Password_Generator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Password_Generator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Password_Generator-Release-67c1ca5442da36d9f1bc.json",
+					"name" : "Password_Generator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Password_Generator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Password_Generator_autogen-Release-2b8a4bfb3db874e87786.json",
+					"name" : "Password_Generator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Password_Generator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Password_Generator_autogen_timestamp_deps-Release-502573679697d0c7ab81.json",
+					"name" : "Password_Generator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/6.6.0/mingw_64/GUI_PASSGEN",
+		"source" : "D:/Projects/Password_Generator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
